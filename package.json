@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "package": "^1.0.1"
+  },
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "calculat web",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "almog lusky",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
